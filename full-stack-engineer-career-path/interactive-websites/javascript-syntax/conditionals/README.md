@@ -1,6 +1,6 @@
 <h1> Race Day</h1>
 Codecademy’s annual race is just around the corner!
-<p><strong>Task:</strong> To write a program to register runners for a race and give them a race number and a start tine based on their age and egisteration
+<p><strong>Task:</strong> To write a program to register runners for a race and assigned them a race number and a start tine based on their age and registeration.
 
 Race number:
 <ul>
