@@ -6,13 +6,14 @@ Here’s how our registration works. There are adult runners (over 18 years of a
 
 Race number:
 <ul>
-<li>Early adults receive a race number at or above 1000.</li>
-<li>All others receive a number below 1000.</li>
+  <li>Early adults receive a race number at or above 1000.</li>
+  <li>All others receive a number below 1000.</li>
 </ul>
 Start time:
 
-Adult registrants run at 9:30 am or 11:00 am.
+<ul><li>Adult registrants run at 9:30 am or 11:00 am.</li></ul>
 Early adults run at 9:30 am.
 Late adults run at 11:00 am.
+
 Youth registrants run at 12:30 pm (regardless of registration).
 But we didn’t plan for runners that are exactly 18! We’ll handle that by the end of the project.
