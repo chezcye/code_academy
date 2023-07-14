@@ -1,4 +1,4 @@
-?php
+<?php
 // an empty array $output to store the statements in 
 $output = [];
 // a for loop that counts from 1 to 100.
