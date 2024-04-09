@@ -1,5 +1,5 @@
 // Magic 8 Ball program 
-// This program is designed to answer "yes" or "no" question with a different fortune each time.  
+// This program is designed to answer "yes" or "no" questions with a different fortune each time.  
 
 let player = "T'Cheznavia"
 // Question for this program to answer 
@@ -12,7 +12,7 @@ print (randomNumber)
 // A empty string to store the different fortune answer
 let eightball: String
 
-// a switch statement to hold different fortune answer based on te selected random nnumber.  
+// a switch statement to hold different fortune answers based on a selected random number.  
 switch randomNumber {
   case 1: 
   eightball = "Yes - definitely"
