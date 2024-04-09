@@ -1,1 +1,8 @@
-
+print("Fun Fact: I love to cooking")
+print("TTTTT   CCC ")
+print("  T   C    C ")
+print("  T   C")
+print("  T   C")
+print("  T   C")
+print("  T   C    C ")
+print("  T    CCC ")
